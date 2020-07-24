@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tang_hex)(type Legacy)(uri ${KIPRJMOD}/tang_hex.lib)(options "")(descr ""))
+)
