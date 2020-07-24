@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-52.20421560479329
+130.2284831335004
  22
-39.49295811979778
+78.52418091276884
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-73.05144361858864
+261.562940646054
  41
-1.779350104821803
+1.794397463002114
  42
 50
  43
@@ -2671,91 +2671,9 @@ SECTION
   2
 ENTITIES
   0
-LWPOLYLINE
-  5
-4E
-100
-AcDbEntity
-  8
-silktop
-  6
-ByLayer
- 62
-    7
-370
-   -1
-100
-AcDbPolyline
- 90
-    2
- 70
-    0
- 43
-0
- 10
-6.291128224072141
- 20
-14.61302546510305
- 10
-6.291128224072141
- 20
-24.61066503195867
-  0
-LWPOLYLINE
-  5
-4F
-100
-AcDbEntity
-  8
-silktop
-  6
-ByLayer
- 62
-    7
-370
-   -1
-100
-AcDbPolyline
- 90
-    1
- 70
-    1
- 43
-0
- 10
-6.40473787896638
- 20
-37.00830608442841
-  0
-LWPOLYLINE
-  5
-50
-100
-AcDbEntity
-  8
-silktop
-  6
-ByLayer
- 62
-    7
-370
-   -1
-100
-AcDbPolyline
- 90
-    1
- 70
-    1
- 43
-0
- 10
-9.273378729760006
- 20
-2.243786574760934
-  0
 SPLINE
   5
-51
+4E
 100
 AcDbEntity
   8
@@ -2831,7 +2749,7 @@ AcDbSpline
   0
 LWPOLYLINE
   5
-52
+4F
 100
 AcDbEntity
   8
@@ -2857,7 +2775,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-53
+50
 100
 AcDbEntity
   8
@@ -2883,7 +2801,7 @@ AcDbPolyline
   0
 SPLINE
   5
-54
+51
 100
 AcDbEntity
   8
@@ -2957,111 +2875,9 @@ AcDbSpline
  30
 0
   0
-LWPOLYLINE
-  5
-55
-100
-AcDbEntity
-  8
-silktop
-  6
-ByLayer
- 62
-    7
-370
-   -1
-100
-AcDbPolyline
- 90
-    1
- 70
-    1
- 43
-0
- 10
-70.77874354586535
- 20
-10.75030088877263
-  0
-LWPOLYLINE
-  5
-56
-100
-AcDbEntity
-  8
-silktop
-  6
-ByLayer
- 62
-    7
-370
-   -1
-100
-AcDbPolyline
- 90
-    1
- 70
-    1
- 43
-0
- 10
-70.77874354586535
- 20
-59.75861641403906
-  0
-LWPOLYLINE
-  5
-57
-100
-AcDbEntity
-  8
-silktop
-  6
-ByLayer
- 62
-    7
-370
-   -1
-100
-AcDbPolyline
- 90
-    1
- 70
-    1
- 43
-0
- 10
-69.15980755706336
- 20
-59.75861641403906
-  0
-LINE
-  5
-58
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-6.291128224072141
- 20
-60.25565827680746
- 11
-6.291128224072141
- 21
-10.25325936146549
-  0
 SPLINE
   5
-59
+52
 100
 AcDbEntity
   8
@@ -3137,7 +2953,7 @@ AcDbSpline
   0
 LINE
   5
-5A
+53
 100
 AcDbEntity
   8
@@ -3161,7 +2977,7 @@ AcDbLine
   0
 SPLINE
   5
-5B
+54
 100
 AcDbEntity
   8
@@ -3237,7 +3053,7 @@ AcDbSpline
   0
 LINE
   5
-5C
+55
 100
 AcDbEntity
   8
@@ -3261,7 +3077,7 @@ AcDbLine
   0
 LINE
   5
-5D
+56
 100
 AcDbEntity
   8
@@ -3280,6 +3096,30 @@ AcDbLine
 60.25565827680746
  11
 71.2852656234088
+ 21
+10.25325936146549
+  0
+LINE
+  5
+57
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6.291128224072141
+ 20
+60.25565827680746
+ 11
+6.291128224072141
  21
 10.25325936146549
   0
